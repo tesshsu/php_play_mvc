@@ -33,7 +33,7 @@ class User extends Controller {
 
 models/user_model.php
 Class extends Model which had defined Database constant
-Excute libs/Database.php selest method
+Excute libs/Database.php select method
 Defined if role is owner delete method will invalide
 Excute libs/Database.php delete method
 class User_Model extends Model
